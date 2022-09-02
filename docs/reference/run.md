@@ -35,7 +35,6 @@ The `docker run` command must specify an [*IMAGE*](https://docs.docker.com/gloss
 to derive the container from. An image developer can define image
 defaults related to:
 
- * detached or foreground running
  * container identification
  * network settings
  * runtime constraints on CPU and memory
